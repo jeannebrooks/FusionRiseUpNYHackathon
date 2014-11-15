@@ -3,7 +3,7 @@ FusionRiseUpNYHackathon
 
 Fusion RiseUp Hackathon NY
 * The WIFI is "CUNY Journalism Guest" pw: SOJwi-fi2014
-* Bathrooms are through the newsroom on the left
+* Bathrooms are through the newsroom on the right
 * Please follow the code of conduct. In short, be respectful and considerate of others while at this event. We will quickly address any issues.
 * Sign up on the <a href="http://riseupnyc.hackdash.org/">HackDash</a> to submit your project. You can post ideas in the forum.
 * We are working in room 308. Please be thoughtful of the CUNY Journalism School space. We are happy to be guests, so lets keep tidy and use any equipment with respect.
