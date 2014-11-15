@@ -4,6 +4,7 @@ FusionRiseUpNYHackathon
 Fusion RiseUp Hackathon NY
 * The WIFI is "CUNY Journalism Guest" pw: SOJwi-fi2014
 * Bathrooms are through the newsroom on the right
+* Please be aware of the <a href="https://github.com/jeannebrooks/FusionRiseUpNYHackathon/blob/master/CROWD/ATMOSPHERE%20NOTICE.md">Atmosphere Notice</a>. We will be taking photos throughout the event for Fusion.net. 
 * Please follow the <a href="https://github.com/jeannebrooks/FusionRiseUpNYHackathon/tree/master">code of conduct</a>. 
 * In short, be respectful and considerate of others while at this event. We will quickly address any issues.
 * Sign up on the <a href="http://riseupnyc.hackdash.org/">HackDash</a> to submit your project. You can post ideas in the forum.
